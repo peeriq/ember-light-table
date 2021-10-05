@@ -33,7 +33,7 @@
     "ember-cli-babel": "^7.21.0",
     "ember-cli-htmlbars": "^5.2.0",
     "ember-cli-string-helpers": "^5.0.0",
-    "ember-get-config": "^0.2.4",
+    "ember-get-config": "^0.3.0",
     "ember-in-viewport": "^3.7.2",
     "ember-scrollable": "^1.0.2",
     "ember-truth-helpers": "^2.0.0",
