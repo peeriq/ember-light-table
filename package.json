@@ -37,7 +37,7 @@
     "ember-in-viewport": "^3.7.2",
     "ember-scrollable": "^1.0.2",
     "ember-truth-helpers": "^2.0.0",
-    "ember-wormhole": "^0.5.5"
+    "ember-wormhole": "^0.6.0"
   },
   "devDependencies": {
     "@ember/jquery": "^1.1.0",
